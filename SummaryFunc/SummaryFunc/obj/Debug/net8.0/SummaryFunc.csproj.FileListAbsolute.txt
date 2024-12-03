@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\bin\Debug\net8.0\SummaryFunc.exe
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\bin\Debug\net8.0\SummaryFunc.deps.json
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\bin\Debug\net8.0\SummaryFunc.runtimeconfig.json
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\bin\Debug\net8.0\SummaryFunc.dll
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\bin\Debug\net8.0\SummaryFunc.pdb
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.AssemblyInfo.cs
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.dll
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\refint\SummaryFunc.dll
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.pdb
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.genruntimeconfig.cache
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\ref\SummaryFunc.dll
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryFunc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SummaryFunc\SummaryFunc\obj\Debug\net8.0\SummaryF.EA9E2899.Up2Date
