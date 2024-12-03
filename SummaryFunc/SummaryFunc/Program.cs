@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text.Json.Nodes;
 using Newtonsoft.Json;
@@ -22,7 +22,7 @@ class Program
 
         List<int> amounts = new List<int>();
 
-        GetAmounts(data, amounts);
+        amounts = GetAmounts(data, amounts);
 
         int result = 0;
 
@@ -34,7 +34,7 @@ class Program
         Console.WriteLine(result);
     }
 
-    public static void GetAmounts(List<DataJson> data, List<int> amounts)
+    public static List<int> GetAmounts(List<DataJson> data, List<int> amounts)
     {
         foreach (var dt in data)
         {
@@ -45,5 +45,6 @@ class Program
                 GetAmounts(dt.Sub, amounts);
             }
         }
+        return amounts;
     }
 }
